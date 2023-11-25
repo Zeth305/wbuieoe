@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Info</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">General</>",
           "title1": "Welcome to Evolve or Extinct!",
           "text1": "Working on it",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -25,7 +25,7 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "2 Box layout",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">2 Box layout</>",
           "title1": "Left title",
           "title2": "Right title",
           "text1": "This text goes into the left box",
@@ -36,7 +36,7 @@
       {
         "tab3": {
           "layout": 3,
-          "buttontext": "3 Box layout",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">3 Box layout</>",
           "title1": "Left title",
           "title2": "Top right title",
           "title3": "Bottom left title",
@@ -50,7 +50,7 @@
     "links": [
       {
         "link1": {
-          "text": "DISCORD",
+          "text": "<RichColor Color=\"1,0,0,1\">Discord</>",
           "url": "https://discord.gg/SxwWPKmESg"
         }
       }
